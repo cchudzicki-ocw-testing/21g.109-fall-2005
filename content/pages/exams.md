@@ -10,4 +10,4 @@ uid: 1de88e6b-2b01-e798-8548-14005eaa8cae
 Sample Test
 -----------
 
-Unit One ({{< resource_link d2729ba5-cfcb-146e-cb8a-2d9c40298ad8 "PDF" >}})
+Unit One ({{% resource_link d2729ba5-cfcb-146e-cb8a-2d9c40298ad8 "PDF" %}})
