@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The assignments section offers information on the before class and in
+  class activities.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains exercise quiz and vocabulary test, given in Chinese
+  and English.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
